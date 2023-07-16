@@ -1,4 +1,4 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+This is a test extension to demonstrate the CSP not being applied correctly, when different letter cases are used to access the page.
 
 ## Getting Started
 
